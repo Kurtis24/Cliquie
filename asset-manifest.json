@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/cliquie/static/css/main.58738864.css",
+    "main.js": "/cliquie/static/js/main.43935182.js",
+    "static/media/image.png": "/cliquie/static/media/image.a34b10ac800b8e101820.png",
+    "static/media/marble-bg.png": "/cliquie/static/media/marble-bg.ed6679913ff4997de4f7.png",
+    "static/media/Untitled_Artwork.mp4": "/cliquie/static/media/Untitled_Artwork.e11b9db334fa14ae559b.mp4",
+    "static/media/logo.png": "/cliquie/static/media/logo.035babe4d37945c1b61a.png",
+    "index.html": "/cliquie/index.html",
+    "main.58738864.css.map": "/cliquie/static/css/main.58738864.css.map",
+    "main.43935182.js.map": "/cliquie/static/js/main.43935182.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58738864.css",
+    "static/js/main.43935182.js"
+  ]
+}
