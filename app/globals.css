@@ -6,7 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #000;
+  background-color: #1e1e1e;
 }
 
 code {
@@ -99,7 +99,7 @@ code {
 
 .landing-page {
   min-height: 100vh;
-  background-color: #000;
+  background-color: #1e1e1e;
   padding: 0;
   margin: 0;
   position: relative;
@@ -112,7 +112,7 @@ code {
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  background-color: #000;
+  background-color: #1e1e1e;
   position: relative;
   z-index: 10;
 }
