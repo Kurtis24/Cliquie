@@ -1,1 +1,1 @@
-# Cliquie .com
+# Cliquie
